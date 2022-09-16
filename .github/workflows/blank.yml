@@ -1,12 +1,22 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Coursera
 
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches: [ "required to create an account. Click Here to create an account. If you already have an account, click Here to login your credentials that will enable you complete your application over several sessions. The system will prompt you on how to complete the application. Once satisfied with the application, click on submit!
+
+UPLOAD OF REQUIRED APPLICATION DOCUMENTS
+You are required to upload copies of your credentials as part of filling this application form and such documents should be in .pdf format.
+The originals of the uploaded documents shall be sighted during the screening exercise. Remember to come along with them!
+Passport photograph to be uploaded should be in .jpeg format and should not be more than 100KB in size.
+Your application information is maintained on a secure server and remains confidential.
+STATUS OF APPLICATION
+After submission of your form, you can always check the status of your application by logging into the portal again. However, you will receive important email messages as it relates to your application status.
+
+QUESTIONS?" ]
   pull_request:
     branches: [ "main" ]
 
